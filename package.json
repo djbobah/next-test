@@ -1,6 +1,6 @@
 {
   "name": "next-test",
-  "version": "0.1.6-rc.1",
+  "version": "0.1.7-0",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
